@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload .
           changes appear here. 
-          This is the first feature branch
+          This is the second feature branch
         </p>
         <a
           className="App-link"
